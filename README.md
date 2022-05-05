@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liam3200
 - 👀 I’m interested in back end developement and data management
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Android Studio, and SQLite
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me liamgreene10@gmail.com
 
