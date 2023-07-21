@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Liam3200
 - 👀 I’m interested in back end developement and data management
-- 🌱 I’m currently learning Java, Android Studio, and SQLite
-- 💞️ I’m looking to collaborate on ...
+- ☕️ I have roughly 4 years of experience working with Java!
+- 🌱 I’m currently learning Spring Framework
+- 💞️ I’m looking to collaborate on any open source project where my skill will be useful
 - 📫 Contact me at liamgreene10@gmail.com
 
 <!---
